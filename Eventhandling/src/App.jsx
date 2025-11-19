@@ -13,7 +13,7 @@ const App = () => {
       {/* <p onMouseOver={handlemouseover}> I am paragraph */}
     
       {/* </p> */}
-      {/*Immediate invokation */}
+      {/*Immediate invocation */}
       <button onClick={()=>alert("button click hua h")}>
         click me 
       </button>
